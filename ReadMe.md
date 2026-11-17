@@ -2,7 +2,7 @@
 
 A Java (Maven) desktop app that registers and logs in a user, then lets them send, store and disregard messages, and manage them using arrays and JSON.
 
-**Student:** YOUR NAME  |  **Student number:** YOUR STUDENT NUMBER
+**Student:** ABELWA MAKHANYA  |  **Student number:** ST10526918
 
 ## Features
 - Register and log in (username, password and cell phone validation)
